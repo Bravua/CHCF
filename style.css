@@ -81,11 +81,11 @@
       display: none;
     }
      .bg1a{
-      background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('IMG/SaveTheChilda.jpg');
+      background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('IMG/main1.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       padding: 20px;
-      height: 70vh;
+      height: 80vh;
       transition: 5s;
       background-position: top right;
       animation-name:animate;
@@ -99,36 +99,36 @@
   
   @keyframes animate{
     0%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/SaveTheChilda.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main1.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
     }
     20%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/UNI355731.jpg.crdownload');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main2.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
     }
     40%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/savec.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main3.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
     }
     60%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/Saveb.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main4.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
     }
     80%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/Gurmeet-Sapal-India-PSI-bangalore-140.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main5.jpg');
       background-repeat: no-repeat;
       background-size: cover;
     }
     100%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/savee.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main6.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
@@ -1398,7 +1398,7 @@
       color: gray;
      }
      .bg1a{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/SaveTheChilda.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main1.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       height: 80vh;
@@ -1416,37 +1416,37 @@
   }
   @keyframes animate{
     0%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/SaveTheChilda.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main1.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
     }
     20%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/UNI355731.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main2.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
     }
     40%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/savec.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main3.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
     }
     60%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/Saveb.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main4.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
     }
     80%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/Gurmeet-Sapal-India-PSI-bangalore-140.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main4.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
     }
     100%{
-      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/savee.jpg');
+      background:linear-gradient(rgba(1, 3, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/main6.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       transition: 2s;
