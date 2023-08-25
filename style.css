@@ -139,8 +139,12 @@
       padding: 20px;
   }
   .h1a{
-      font-weight: 600;
+      font-weight: 700;
       text-align: center;
+      padding: 10px;
+      background-color: white;
+      border-radius: 5px;
+      color: black;
   }
   .p1{
       font-weight: 500;
@@ -1456,8 +1460,12 @@
       color: #fff;
   }
   .h1a{
-      font-weight: 700;
-      text-align: center;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
       
   }
   .p1{
